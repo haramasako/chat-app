@@ -1,0 +1,22 @@
+body{
+  text-align:center ;
+
+}
+
+.name {
+    text-align:center ;
+}
+
+.output {
+  background-image:url("boad.jpg");
+ }
+
+.btn {
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  background-color:rgb(23, 160, 218);
+  text-decoration: none;
+  color: rgb(249, 245, 245);
+  border-radius: 7px;
+}
